@@ -1,0 +1,22 @@
+D:\Sagar\Saggy\bin\Debug\netcoreapp2.1\Saggy.deps.json
+D:\Sagar\Saggy\bin\Debug\netcoreapp2.1\Saggy.runtimeconfig.json
+D:\Sagar\Saggy\bin\Debug\netcoreapp2.1\Saggy.runtimeconfig.dev.json
+D:\Sagar\Saggy\bin\Debug\netcoreapp2.1\Saggy.dll
+D:\Sagar\Saggy\bin\Debug\netcoreapp2.1\Saggy.pdb
+D:\Sagar\Saggy\obj\Debug\netcoreapp2.1\Saggy.csprojAssemblyReference.cache
+D:\Sagar\Saggy\obj\Debug\netcoreapp2.1\Saggy.csproj.CoreCompileInputs.cache
+D:\Sagar\Saggy\obj\Debug\netcoreapp2.1\Saggy.AssemblyInfoInputs.cache
+D:\Sagar\Saggy\obj\Debug\netcoreapp2.1\Saggy.AssemblyInfo.cs
+D:\Sagar\Saggy\obj\Debug\netcoreapp2.1\Saggy.dll
+D:\Sagar\Saggy\obj\Debug\netcoreapp2.1\Saggy.pdb
+D:\Sagar\Training\Intern7319\1. Code\bin\Debug\netcoreapp2.1\Saggy.deps.json
+D:\Sagar\Training\Intern7319\1. Code\bin\Debug\netcoreapp2.1\Saggy.runtimeconfig.json
+D:\Sagar\Training\Intern7319\1. Code\bin\Debug\netcoreapp2.1\Saggy.runtimeconfig.dev.json
+D:\Sagar\Training\Intern7319\1. Code\bin\Debug\netcoreapp2.1\Saggy.dll
+D:\Sagar\Training\Intern7319\1. Code\bin\Debug\netcoreapp2.1\Saggy.pdb
+D:\Sagar\Training\Intern7319\1. Code\obj\Debug\netcoreapp2.1\Saggy.csprojAssemblyReference.cache
+D:\Sagar\Training\Intern7319\1. Code\obj\Debug\netcoreapp2.1\Saggy.csproj.CoreCompileInputs.cache
+D:\Sagar\Training\Intern7319\1. Code\obj\Debug\netcoreapp2.1\Saggy.AssemblyInfoInputs.cache
+D:\Sagar\Training\Intern7319\1. Code\obj\Debug\netcoreapp2.1\Saggy.AssemblyInfo.cs
+D:\Sagar\Training\Intern7319\1. Code\obj\Debug\netcoreapp2.1\Saggy.dll
+D:\Sagar\Training\Intern7319\1. Code\obj\Debug\netcoreapp2.1\Saggy.pdb

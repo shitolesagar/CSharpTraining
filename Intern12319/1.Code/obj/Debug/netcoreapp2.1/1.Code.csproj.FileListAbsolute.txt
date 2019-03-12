@@ -1,0 +1,11 @@
+D:\Sagar\Training\Intern12319\1.Code\obj\Debug\netcoreapp2.1\1.Code.csprojAssemblyReference.cache
+D:\Sagar\Training\Intern12319\1.Code\obj\Debug\netcoreapp2.1\1.Code.csproj.CoreCompileInputs.cache
+D:\Sagar\Training\Intern12319\1.Code\obj\Debug\netcoreapp2.1\1.Code.AssemblyInfoInputs.cache
+D:\Sagar\Training\Intern12319\1.Code\obj\Debug\netcoreapp2.1\1.Code.AssemblyInfo.cs
+D:\Sagar\Training\Intern12319\1.Code\bin\Debug\netcoreapp2.1\1.Code.deps.json
+D:\Sagar\Training\Intern12319\1.Code\bin\Debug\netcoreapp2.1\1.Code.runtimeconfig.json
+D:\Sagar\Training\Intern12319\1.Code\bin\Debug\netcoreapp2.1\1.Code.runtimeconfig.dev.json
+D:\Sagar\Training\Intern12319\1.Code\bin\Debug\netcoreapp2.1\1.Code.dll
+D:\Sagar\Training\Intern12319\1.Code\bin\Debug\netcoreapp2.1\1.Code.pdb
+D:\Sagar\Training\Intern12319\1.Code\obj\Debug\netcoreapp2.1\1.Code.dll
+D:\Sagar\Training\Intern12319\1.Code\obj\Debug\netcoreapp2.1\1.Code.pdb

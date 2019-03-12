@@ -1,0 +1,11 @@
+D:\Sagar\Training\Intern6319\1. code\bin\Debug\netcoreapp2.1\1. code.deps.json
+D:\Sagar\Training\Intern6319\1. code\bin\Debug\netcoreapp2.1\1. code.runtimeconfig.json
+D:\Sagar\Training\Intern6319\1. code\bin\Debug\netcoreapp2.1\1. code.runtimeconfig.dev.json
+D:\Sagar\Training\Intern6319\1. code\bin\Debug\netcoreapp2.1\1. code.dll
+D:\Sagar\Training\Intern6319\1. code\bin\Debug\netcoreapp2.1\1. code.pdb
+D:\Sagar\Training\Intern6319\1. code\obj\Debug\netcoreapp2.1\1. code.csprojAssemblyReference.cache
+D:\Sagar\Training\Intern6319\1. code\obj\Debug\netcoreapp2.1\1. code.csproj.CoreCompileInputs.cache
+D:\Sagar\Training\Intern6319\1. code\obj\Debug\netcoreapp2.1\1. code.AssemblyInfoInputs.cache
+D:\Sagar\Training\Intern6319\1. code\obj\Debug\netcoreapp2.1\1. code.AssemblyInfo.cs
+D:\Sagar\Training\Intern6319\1. code\obj\Debug\netcoreapp2.1\1. code.dll
+D:\Sagar\Training\Intern6319\1. code\obj\Debug\netcoreapp2.1\1. code.pdb

@@ -1,0 +1,4 @@
+D:\Sagar\Training\Intern6319\obj\Debug\netcoreapp2.1\Intern6319.csprojAssemblyReference.cache
+D:\Sagar\Training\Intern6319\obj\Debug\netcoreapp2.1\Intern6319.csproj.CoreCompileInputs.cache
+D:\Sagar\Training\Intern6319\obj\Debug\netcoreapp2.1\Intern6319.AssemblyInfoInputs.cache
+D:\Sagar\Training\Intern6319\obj\Debug\netcoreapp2.1\Intern6319.AssemblyInfo.cs
