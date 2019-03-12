@@ -1,7 +1,8 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-  <StartUpobject>Class2</StartUpobject>
+  <StartUpobject>TestMatrix</StartUpobject>
+  
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp2.1</TargetFramework>
     <RootNamespace>_1.Code</RootNamespace>
